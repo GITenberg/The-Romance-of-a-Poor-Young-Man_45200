@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1342
     wikipedia: http://en.wikipedia.org/wiki/Octave_Feuillet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45200#The-Romance-of-a-Poor-Young-Man
 gutenberg_issued: '2014-03-24'
 gutenberg_type: Text
 identifiers:
