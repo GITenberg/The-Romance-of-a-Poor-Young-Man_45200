@@ -1,0 +1,41 @@
+_repo: The-Romance-of-a-Poor-Young-Man_45200
+_version: 0.1.0
+alternative_title: Le roman d'un jeune homme pauvre. English
+contributor:
+  illustrator:
+    agent_name: Guilhem, Simont
+    gutenberg_agent_id: '43148'
+    url: http://www.gutenberg.org/2009/agents/43148
+  translator:
+    agent_name: Harland, Henry
+    alias: Luska, Sidney
+    birthdate: 1861
+    deathdate: 1905
+    gutenberg_agent_id: '1810'
+    url: http://www.gutenberg.org/2009/agents/1810
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Harland
+covers:
+- cover_type: archival
+  image_path: 45200-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Feuillet, Octave
+    birthdate: 1821
+    deathdate: 1890
+    gutenberg_agent_id: '1342'
+    url: http://www.gutenberg.org/2009/agents/1342
+    wikipedia: http://en.wikipedia.org/wiki/Octave_Feuillet
+description: ''
+gutenberg_issued: '2014-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45200'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- France -- Fiction'
+- !lcc 'PQ'
+title: The Romance of a Poor Young Man
+url: http://www.gutenberg.org/ebooks/45200
